@@ -29,6 +29,7 @@ Más capturas en: <https://1drv.ms/f/s!AlBOXn97PZ--xVe2LfvtRMbeFmkQ>
 - Animación de diálogos implementados.
 - Movimiento centrado en el personaje.
 - Mapa completamente diseñado en base a la sede de San Isidro.
+- Mapas de colisión
 
 ## CREADORES
 
