@@ -9,7 +9,8 @@ Juego creado para el curso de Programación 2
 Estas en la sede de San Isidro, y de repente los pokemones invaden el campus,  
 ¿Descubrirás quienés están detrás de estos incidentes?
 
-Por supuesto que no, te dedicarás a atrapar pokemones y a ganar medallas de gimansios!
+Por supuesto que no, te dedicarás a atrapar pokemones y a ganar medallas de gimansios!  
+Más capturas en: <https://1drv.ms/f/s!AlBOXn97PZ--xVe2LfvtRMbeFmkQ>
 
 ## El juego incluye
 - Evolución con piedra eléctrica.
